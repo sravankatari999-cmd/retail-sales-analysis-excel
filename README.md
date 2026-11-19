@@ -7,7 +7,6 @@ This project analyses retail sales transactions using Microsoft Excel. It explor
 The project uses a sample dataset containing 20 transactions from January 2026.
 
 ## Dashboard Preview
-
 ![Retail Sales Dashboard](Retail_Dashboard.png)
 
 ## Tools Used
